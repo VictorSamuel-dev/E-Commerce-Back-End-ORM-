@@ -45,7 +45,7 @@ SO THAT my company can compete with other e-commerce companies
 * Email - victorsamuel196@gmail.com
 * GitHub - [VictorSamuel-dev](https://github.com/VictorSamuel-dev/)
 ## Deployed Application Link:
-[Deployed Application Link]()
+[Deployed Application Link](https://victorsamuel-dev.github.io/E-Commerce-Back-End-ORM-/)
 ## GitHub Repository:
 [GitHub Repository](https://github.com/VictorSamuel-dev/E-Commerce-Back-End-ORM-)
 ## License
